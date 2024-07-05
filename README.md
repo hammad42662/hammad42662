@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 <b>Hey there</b>, I'm Hammad Afzal! 🚀<br><br>🎓 I hold a Bachelor's degree in Computer Science and a Master's degree in  Digital Marketing and International Business with Data Analytics. <br><br>
-💻<b> My tech expertise: </b> React, Next.js, Vue JavaScript, HTML, CSS, Tailwind, Typescript Redux and React Router.<br><br>
 👯 <b>I’m looking to collaborate on: </b> Fullstack projects
-
 💻 <b>I am currently learning :</b> Node Express and MongoDB <br><br>
 📫Connect with me on LinkedIn (linkedin.com/in/muhammad-hammad-afzal). 
 
