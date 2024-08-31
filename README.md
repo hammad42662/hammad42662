@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 <b>Hey there</b>, I'm Hammad Afzal! 🚀<br><br>🎓 I hold a Bachelor's degree in Computer Science and a Master's degree in  Digital Marketing and International Business with Data Analytics. <br><br>
-👯 <b>I’m experienced frontend development  </b>
+👯 <b>I’m experienced frontend developer  </b>
 💻 <b>I am currently practicing :</b> Backend Development <br><br>
 📫Connect with me on LinkedIn (linkedin.com/in/muhammad-hammad-afzal). 
 
